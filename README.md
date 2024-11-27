@@ -1,8 +1,15 @@
-# ***MARVEL'S AVENGERS ENDGAME***
+
+![images](https://github.com/user-attachments/assets/85681ea2-6eb1-4aa9-917d-f889e8499154)
+# ***MARVEL'S AVENGERS ENDGAME (2019)***
 ----------- ----------- ----------- -----------
 
 ## **INSIGHT**
-### Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely.
+### Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). 
+
+----------- ----------- ----------- -----------
+
+## **RATINGS**
+![reviews](https://github.com/user-attachments/assets/0aeafcfa-43ce-452f-bca5-44d374b026c8)
 
 ----------- ----------- ----------- -----------
 
@@ -25,6 +32,15 @@
 16. Josh Brolin.
 
 ----------- ----------- ----------- -----------
+## **DIRECTOR**
+1. Anthony Russo.
+2. Joe Russo.
+
+## **WRITER**
+1. Christopher Markus.
+2. Stephen McFeely.
+
+----------- ----------- ----------- -----------
 
 ## **SUMMARY**
 In 2018, 23 days after Thanos erased half of all life in the universe, Carol Danvers rescues Tony Stark and Nebula from deep space. They reunite with the remaining Avengers—Bruce Banner, Steve Rogers, Thor, Natasha Romanoff, and James Rhodes—and Rocket on Earth. Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions but find that Thanos has destroyed them. Enraged, Thor decapitates Thanos.
@@ -44,3 +60,8 @@ After Stark's funeral, Thor appoints Valkyrie as the new king of New Asgard and 
 Endgame was one of 2019's most anticipated films of 2019 in late December 2018, ranked second by IMDb and first by Fandango and Atom Tickets. Due to high demand when pre-sale tickets became available in the U.S. on April 2, 2019, customers on Atom Tickets and Fandango experienced long wait times and system delays; AMC Theatres' website and app crashed for several hours. Fandango announced that day that the film was its top-selling pre-sale title for the first 24 hours, breaking Star Wars: The Force Awakens's record in six hours. Atom said that the film was the website's bestselling first-day film (outselling Aquaman (2018) by four times), and Regal Cinemas reported that Endgame had sold more tickets in its first eight hours than Infinity War did in its first week. The film grossed $120–140 million in pre-sales. Fandango announced the day before release that Endgame was its biggest pre-selling title of all time, surpassing The Force Awakens with over 8,000 sold-out showtimes across the US.
 
 In India, the film sold one million tickets in one day for its English, Hindi, Tamil, and Telugu-language screenings; 18 tickets were sold every second. In China, pre-sale tickets became available on April 12; a record one million were sold in six hours, surpassing Infinity War's first-24-hours total in the first hour and earning $114.5 million (RMB 770 million) in pre-sales.
+
+----------- ----------- ----------- -----------
+
+## **THANK YOU FOR REVIEWING**
+![giphy](https://github.com/user-attachments/assets/9e9543d0-f3f0-47df-bae4-b211d5cf40d3)
